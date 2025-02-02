@@ -1,6 +1,6 @@
 # Bright Data Mobile Proxies
 
-[![Promo](https://github.com/luminati-io/Mobile-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/mobile-proxies?promo=github15)
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/proxy-types/mobile-proxies)
 
 ## Overview
 Access the internet as a real mobile user with Bright Data's [mobile proxy network](https://brightdata.com/proxy-types/mobile-proxies), featuring millions of 3G, 4G, and 5G IPs from around the world.
@@ -25,7 +25,7 @@ Access the internet as a real mobile user with Bright Data's [mobile proxy netwo
   - **339 GB**: $5.88/GB, $1999/month + VAT.
   - **Enterprise Plans**: Custom pricing and packages available.
 
-Sign up today and get a dollar-for-dollar match on your first deposit, up to $500!
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types/mobile-proxies) 
 
 ## Getting Started with Mobile Proxies
 1. **Start Free Trial**: No credit card required.
